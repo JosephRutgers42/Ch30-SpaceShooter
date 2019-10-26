@@ -192,7 +192,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 200d6dd9ef182da45801f962550cbe2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  radius: 1
+  radius: 4
   camWidth: 0
   camHeight: 0
 --- !u!1 &1123507302
