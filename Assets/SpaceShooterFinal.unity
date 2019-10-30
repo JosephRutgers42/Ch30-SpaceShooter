@@ -193,30 +193,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   radius: 4
+  keepOnScreen: 1
+  isOnScreen: 1
   camWidth: 0
   camHeight: 0
---- !u!1 &763104127 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2386943204951438814, guid: 53a7b562238119e49979e3f7f173fe65,
-    type: 3}
-  m_PrefabInstance: {fileID: 2386943205575081633}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &763104130
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 763104127}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4b8a89e7b2d36aa458637d3937f51e5f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 10
-  fireRate: 0.3
-  health: 10
-  score: 100
 --- !u!1 &1123507302
 GameObject:
   m_ObjectHideFlags: 0
